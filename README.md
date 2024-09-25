@@ -1,5 +1,5 @@
 # Project README: Time Series Forecasting Models for Madrid Temperature Data
-![Uploading Captura de pantalla 2024-09-25 094758.png…]()
+![Captura de pantalla 2024-09-25 094758](https://github.com/user-attachments/assets/068c4d55-2d7f-47d6-b3b5-55c8ba993ebf)
 
 ## Project Overview
 
